@@ -120,6 +120,3 @@ cv2.destroyAllWindows()
 * Play alert sound if eyes are closed for X seconds
 * Extend to full drowsiness detection with blink rate, yawning, head tilt
 
----
-
-Would you like this saved as a downloadable `README.md` file?
